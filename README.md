@@ -5,3 +5,5 @@ Tecnologias utilizadas:
 - Java Script
 - HTML
 - Framework Bootstrap
+
+Foi utilizado a ferramenta ngrok para colocar online a página, dispondo também da utilização do xampp.
